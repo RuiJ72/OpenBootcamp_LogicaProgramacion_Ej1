@@ -1,0 +1,15 @@
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.exe
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.deps.json
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.runtimeconfig.json
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.dll
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.pdb
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.AssemblyReference.cache
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfo.cs
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.dll
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\obj\Debug\net6.0\refint\Ejercicio1.dll
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.pdb
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.genruntimeconfig.cache
+C:\OpenBootcamp - Introdução à Programação\Ejercicio1\Ejercicio1\obj\Debug\net6.0\ref\Ejercicio1.dll
